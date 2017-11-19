@@ -24,17 +24,18 @@
 
 多段代码引用
 ##
-'''
+~~~
 def a(a)
     asd = 123
-    print(asd)
-'''
+    print(asd)
+~~~
 ##
 表格
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
+| col 3多段  | r 的aligned |多段00 |
 | zebra stripes | are neat      |    $1 |
 
 
@@ -50,6 +51,7 @@ baz | baz  | baz
 [1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
 
 
->def main(a)
+>def main(a)  
+
 >    a = 112
 >    print(a)
