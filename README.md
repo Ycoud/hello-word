@@ -50,4 +50,6 @@ baz | baz  | baz
 [1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
 
 
-this is my first coding
+>def main(a)
+>    a = 112
+>    print(a)
